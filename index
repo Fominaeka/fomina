@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Моя личная страничка</title>
+</head>
+<body>
+<left><h1>Фомина Екатерина</h1></left>
+<left><img alt="Это я" width="15%" src="me.jpg"></left>
+<br/>
+<h2>Контакты:</h2>
+Страничка <a href=https://vk.com/fominaekate>vkontakte</a>
+<br/>
+<a href=https://github.com/Fominaeka>GitHub</a>
+<br/>
+Телефон: <b>89045346326<br/>
+E-mail: <i>FominaEKate@yandex.ru</i>
+</body>
+</html>
